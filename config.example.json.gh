@@ -1,0 +1,5 @@
+{
+  "anthropic_api_key": "sk-ant-REEMPLAZAR_CON_TU_API_KEY",
+  "llm_model": "claude-sonnet-4-20250514",
+  "cookie": "JSESSIONID=TU_JSESSIONID; _ga=TU_GA_ID"
+}
